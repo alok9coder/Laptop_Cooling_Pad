@@ -8,11 +8,17 @@ It's a CAD project with 3D printable files. And is specifically designed for my 
 
 
 
-<img src="./images/gsfg.jpg" />
+<img src="./Images/Screenshot 2026-10-10 054233.png" />
 
-<img src="./images/gsfg.jpg" />
+<img src="./Images/Screenshot 2026-10-10 054259.png" />
 
-<img src="./images/gsfg.jpg" />
+<img src="./Images/Screenshot 2026-10-10 054336.png" />
+
+<img src="./Images/Screenshot 2026-10-10 054346.png" />
+
+<img src="./Images/Screenshot 2026-10-10 054414.png" />
+
+<img src="./Images/Screenshot 2026-10-10 054506.png" />
 
 
 
@@ -20,11 +26,11 @@ It's a CAD project with 3D printable files. And is specifically designed for my 
 
 
 
-<img src="./images/gsfg.jpg" />
+<img src="./Images/gsfg.jpg" />
 
-<img src="./images/gsfg.jpg" />
+<img src="./Images/gsfg.jpg" />
 
-<img src="./images/gsfg.jpg" />
+<img src="./Images/gsfg.jpg" />
 
 
 
@@ -32,11 +38,11 @@ It's a CAD project with 3D printable files. And is specifically designed for my 
 
 
 
-<img src="./images/gsfg.jpg" />
+<img src="./Images/gsfg.jpg" />
 
-<img src="./images/gsfg.jpg" />
+<img src="./Images/gsfg.jpg" />
 
-<img src="./images/gsfg.jpg" />
+<img src="./Images/gsfg.jpg" />
 
 
 
@@ -44,11 +50,11 @@ It's a CAD project with 3D printable files. And is specifically designed for my 
 
 
 
-<img src="./images/gsfg.jpg" />
+<img src="./Images/gsfg.jpg" />
 
-<img src="./images/gsfg.jpg" />
+<img src="./Images/gsfg.jpg" />
 
-<img src="./images/gsfg.jpg" />
+<img src="./Images/gsfg.jpg" />
 
 
 
