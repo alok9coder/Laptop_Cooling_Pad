@@ -20,11 +20,16 @@ It's a CAD project with 3D printable files. And is specifically designed for my 
 
 <img src="./Images/Screenshot 2026-10-10 054506.png" />
 
-<img src="./Images/Screenshot 2026-10-11 005141.png" />
+<img src="./Images/Screenshot 2026-10-11 012921.png" />
 
-<img src="./Images/Screenshot 2026-10-11 005201.png" />
+<img src="./Images/Screenshot 2026-10-11 013013.png" />
 
-<img src="./Images/Screenshot 2026-10-11 005220.png" />
+<img src="./Images/Screenshot 2026-10-11 013304.png" />
+
+<img src="./Images/Screenshot 2026-10-11 013329.png" />
+
+<img src="./Images/Screenshot 2026-10-11 013618.png" />
+
 
 
 
