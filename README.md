@@ -30,6 +30,8 @@ It's a CAD project with 3D printable files. And is specifically designed for my 
 
 <img src="./Images/Screenshot 2026-10-11 013618.png" />
 
+<img src="./Images/Screenshot 2026-10-17 183658.png" />
+
 
 
 
