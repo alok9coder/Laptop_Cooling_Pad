@@ -8,9 +8,9 @@ It's a CAD project with 3D printable files. And is specifically designed for my 
 
 
 
-<img src="./Images/Screenshot 2026-10-10 054233.png" />
+<img src="./Images/Screenshot 2026-10-18 144844.png" />
 
-<img src="./Images/Screenshot 2026-10-10 054259.png" />
+<img src="./Images/Screenshot 2026-10-18 144821.png" />
 
 <img src="./Images/Screenshot 2026-10-10 054336.png" />
 
