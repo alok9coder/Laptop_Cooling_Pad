@@ -7,15 +7,15 @@ A CAD project for a 3D-printable laptop cooling pad designed for a 14-inch Lenov
 ### Project Video
 
 <p align="center">
-  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/docs/Video/index.html"><img src="./Images/VID20261027083759-preview.gif" alt="Play the Laptop Cooling Pad video" width="70%" /></a>
+  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/Video/index.html"><img src="./Images/VID20261027083759-preview.gif" alt="Play the Laptop Cooling Pad video" width="70%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/docs/Video/index.html" style="display:inline-block;padding:14px 28px;background:#d73a49;color:white;border-radius:6px;font-size:18px;font-weight:bold;text-decoration:none;">&#9654; Play Full Video with Fan Audio</a>
+  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/Video/index.html" style="display:inline-block;padding:14px 28px;background:#d73a49;color:white;border-radius:6px;font-size:18px;font-weight:bold;text-decoration:none;">&#9654; Play Full Video with Fan Audio</a>
 </p>
 
 <p align="center">
-  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/docs/Video/index.html">Open the playable video player</a>
+  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/Video/index.html">Open the playable video player</a>
   &nbsp;|&nbsp;
   <a href="./Images/VID20261027083759.mp4">Download the full-resolution MP4</a>
 </p>
@@ -60,9 +60,5 @@ A CAD project for a 3D-printable laptop cooling pad designed for a 14-inch Lenov
 ### 🖼️ View All Images in Gallery
 
 <p align="center">
-  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/docs/Gallery/index.html" style="display:inline-block;padding:14px 28px;background:#d73a49;color:white;border-radius:6px;font-size:18px;font-weight:bold;text-decoration:none;">&#128240; View All Images</a>
-</p>
-
-<p align="center">
-  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/docs/Gallery/index.html">Open the Image Gallery</a>
+  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/Gallery/index.html" style="display:inline-block;padding:14px 28px;background:#d73a49;color:white;border-radius:6px;font-size:18px;font-weight:bold;text-decoration:none;">&#128240; View All Images</a>
 </p>
