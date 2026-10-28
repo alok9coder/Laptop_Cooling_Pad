@@ -45,4 +45,4 @@ A CAD project for a 3D-printable laptop cooling pad designed for a 14-inch Lenov
   <img src="./Images/VID20261027083759-preview.gif" alt="Laptop cooling pad project demonstration" width="70%" />
 </p>
 
-[Watch or download the full video](./Images/VID20261027083759-demo.mp4)
+[Watch the full video with fan audio](./Images/VID20261027083759-demo-audio.mp4)
