@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Laptop Cooling Pad Demonstration</title>
+  <style>
+    :root { color-scheme: dark; font-family: Georgia, "Times New Roman", serif; }
+    * { box-sizing: border-box; }
+    body { margin: 0; min-height: 100vh; background: #101412; color: #eef3ef; }
+    main { width: min(960px, calc(100% - 32px)); margin: 0 auto; padding: 48px 0; }
+    h1 { margin: 0 0 8px; font-size: clamp(28px, 6vw, 52px); letter-spacing: 0; }
+    .subtitle { margin: 0 0 28px; color: #b9c4bc; }
+    .player { overflow: hidden; border: 1px solid #526158; border-radius: 8px; background: #090b09; }
+    video { display: block; width: 100%; aspect-ratio: 16 / 9; background: #090b09; }
+    .status { min-height: 24px; margin: 14px 4px 0; color: #b9c4bc; font-family: sans-serif; }
+    .actions { display: flex; gap: 12px; margin-top: 18px; }
+    .actions a { color: #eef3ef; border-bottom: 1px solid #7f9187; text-decoration: none; }
+    @media (max-width: 600px) { main { padding: 24px 0; } }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>Laptop Cooling Pad</h1>
+    <p class="subtitle">Project demonstration with fan noise and airflow suction.</p>
+    <section class="player" aria-label="Project demonstration video">
+      <video id="demo" controls preload="metadata" playsinline>
+        <source src="https://raw.githubusercontent.com/alok9coder/Laptop_Cooling_Pad/main/Images/VID20261027083759-demo-audio.mp4" type="video/mp4">
+        Your browser does not support HTML video.
+      </video>
+      <p id="status" class="status" role="status">Loading video...</p>
+    </section>
+    <div class="actions">
+      <a href="https://raw.githubusercontent.com/alok9coder/Laptop_Cooling_Pad/main/Images/VID20261027083759-demo-audio.mp4" download>Download full video</a>
+      <a href="https://github.com/alok9coder/Laptop_Cooling_Pad">View repository</a>
+    </div>
+  </main>
+  <script>
+    const video = document.getElementById("demo");
+    const status = document.getElementById("status");
+
+    video.addEventListener("loadedmetadata", () => {
+      status.textContent = "Ready to play with sound.";
+    });
+
+    video.addEventListener("playing", () => {
+      status.textContent = "Playing demonstration with fan audio.";
+    });
+
+    video.addEventListener("error", () => {
+      status.textContent = "Video could not load. Use the download link below.";
+    });
+  </script>
+</body>
+</html>
