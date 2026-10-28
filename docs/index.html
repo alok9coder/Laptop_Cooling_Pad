@@ -14,8 +14,6 @@
     .player { overflow: hidden; border: 1px solid #526158; border-radius: 8px; background: #090b09; }
     video { display: block; width: 100%; aspect-ratio: 16 / 9; background: #090b09; }
     .status { min-height: 24px; margin: 14px 4px 0; color: #b9c4bc; font-family: sans-serif; }
-    .quality { display: flex; align-items: center; gap: 12px; margin: 18px 4px 0; font-family: sans-serif; }
-    .quality select { padding: 8px 10px; border: 1px solid #526158; border-radius: 4px; background: #090b09; color: #eef3ef; }
     .actions { display: flex; gap: 12px; margin-top: 18px; }
     .actions a { color: #eef3ef; border-bottom: 1px solid #7f9187; text-decoration: none; }
     @media (max-width: 600px) { main { padding: 24px 0; } }
@@ -32,41 +30,14 @@
       </video>
       <p id="status" class="status" role="status">Loading original high-resolution video...</p>
     </section>
-    <label class="quality" for="quality">
-      Video quality
-      <select id="quality">
-        <option value="original" selected>Original high resolution</option>
-        <option value="compatible">Compressed H.264 (compatibility)</option>
-      </select>
-    </label>
     <div class="actions">
-      <a id="download" href="https://raw.githubusercontent.com/alok9coder/Laptop_Cooling_Pad/main/Images/VID20261027083759.mp4" download>Download original high-resolution video</a>
+      <a href="https://raw.githubusercontent.com/alok9coder/Laptop_Cooling_Pad/main/Images/VID20261027083759.mp4" download>Download full-resolution video</a>
       <a href="https://github.com/alok9coder/Laptop_Cooling_Pad">View repository</a>
     </div>
   </main>
   <script>
     const video = document.getElementById("demo");
     const status = document.getElementById("status");
-    const quality = document.getElementById("quality");
-    const download = document.getElementById("download");
-    const sources = {
-      original: "https://raw.githubusercontent.com/alok9coder/Laptop_Cooling_Pad/main/Images/VID20261027083759.mp4",
-      compatible: "https://raw.githubusercontent.com/alok9coder/Laptop_Cooling_Pad/main/Images/VID20261027083759-demo-audio.mp4"
-    };
-
-    quality.addEventListener("change", () => {
-      const currentTime = video.currentTime;
-      const isPlaying = !video.paused;
-      video.src = sources[quality.value];
-      download.href = sources[quality.value];
-      download.textContent = quality.value === "original" ? "Download original high-resolution video" : "Download compatible H.264 video";
-      status.textContent = quality.value === "original" ? "Loading original high-resolution video..." : "Loading compatible H.264 video...";
-      video.load();
-      video.addEventListener("loadedmetadata", () => {
-        video.currentTime = currentTime;
-        if (isPlaying) video.play();
-      }, { once: true });
-    });
 
     video.addEventListener("loadedmetadata", () => {
       status.textContent = "Ready to play with sound.";
