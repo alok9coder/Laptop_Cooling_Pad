@@ -12,7 +12,7 @@ A CAD project for a 3D-printable laptop cooling pad designed for a 14-inch Lenov
 </p>
 
 <p align="center">
-  <img src="./Images/Screenshot 2026-10-10 054336.png" alt="Cooling pad CAD detail view" width="49%" />
+  <img src="./Images/Screenshot 2026-10-13 111209.png" alt="Cooling pad CAD detail view" width="49%" />
   <img src="./Images/Screenshot 2026-10-10 054346.png" alt="Cooling pad fan and duct CAD detail" width="49%" />
 </p>
 
