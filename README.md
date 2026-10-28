@@ -7,11 +7,11 @@ A CAD project for a 3D-printable laptop cooling pad designed for a 14-inch Lenov
 ### Project Video
 
 <p align="center">
-  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/docs/Video.html"><img src="./Images/VID20261027083759-preview.gif" alt="Play the Laptop Cooling Pad video" width="70%" /></a>
+  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/docs/Video/index.html"><img src="./Images/VID20261027083759-preview.gif" alt="Play the Laptop Cooling Pad video" width="70%" /></a>
 </p>
 
 <p align="center">
-  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/docs/Video.html" style="display:inline-block;padding:14px 28px;background:#d73a49;color:white;border-radius:6px;font-size:18px;font-weight:bold;text-decoration:none;">&#9654; Play Full Video with Fan Audio</a>
+  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/docs/Video/index.html" style="display:inline-block;padding:14px 28px;background:#d73a49;color:white;border-radius:6px;font-size:18px;font-weight:bold;text-decoration:none;">&#9654; Play Full Video with Fan Audio</a>
 </p>
 
 <p align="center">
@@ -60,9 +60,9 @@ A CAD project for a 3D-printable laptop cooling pad designed for a 14-inch Lenov
 ### 🖼️ View All Images in Gallery
 
 <p align="center">
-  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/Docs/Gallery.html" style="display:inline-block;padding:14px 28px;background:#d73a49;color:white;border-radius:6px;font-size:18px;font-weight:bold;text-decoration:none;">&#128240; View All Images</a>
+  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/Docs/Gallery/index.html" style="display:inline-block;padding:14px 28px;background:#d73a49;color:white;border-radius:6px;font-size:18px;font-weight:bold;text-decoration:none;">&#128240; View All Images</a>
 </p>
 
 <p align="center">
-  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/Docs/Gallery.html">Open the Image Gallery</a>
+  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/Docs/Gallery/index.html">Open the Image Gallery</a>
 </p>
