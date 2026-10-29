@@ -20,6 +20,24 @@ A CAD project for a 3D-printable laptop cooling pad designed for a 14-inch Lenov
   <a href="./Images/VID20261027083759.mp4">Download the full-resolution MP4</a>
 </p>
 
+### 🖼️ Explore the Complete Image Gallery
+
+<p align="center">
+  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/docs/Gallery/index.html"
+     style="display:inline-block;
+            padding:20px 48px;
+            background:linear-gradient(135deg, #6a11cb, #2575fc);
+            color:#ffffff;
+            border:2px solid #8bb8ff;
+            border-radius:14px;
+            font-size:24px;
+            font-weight:bold;
+            text-decoration:none;
+            box-shadow:0 6px 18px rgba(37,117,252,0.35);">
+    🖼️ &nbsp; VIEW ALL IMAGES &nbsp; →
+  </a>
+</p>
+
 ### CAD Design
 
 <p align="center">
@@ -57,8 +75,21 @@ A CAD project for a 3D-printable laptop cooling pad designed for a 14-inch Lenov
 
 ---
 
-### 🖼️ View All Images in Gallery
+### 🖼️ Explore the Complete Image Gallery
 
 <p align="center">
-  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/Gallery/index.html" style="display:inline-block;padding:14px 28px;background:#d73a49;color:white;border-radius:6px;font-size:18px;font-weight:bold;text-decoration:none;">&#128240; View All Images</a>
+  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/docs/Gallery/index.html"
+     style="display:inline-block;
+            padding:20px 48px;
+            background:linear-gradient(135deg, #6a11cb, #2575fc);
+            color:#ffffff;
+            border:2px solid #8bb8ff;
+            border-radius:14px;
+            font-size:24px;
+            font-weight:bold;
+            text-decoration:none;
+            box-shadow:0 6px 18px rgba(37,117,252,0.35);">
+    🖼️ &nbsp; VIEW ALL IMAGES &nbsp; →
+  </a>
 </p>
+
