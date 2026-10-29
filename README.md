@@ -23,10 +23,11 @@ A CAD project for a 3D-printable laptop cooling pad designed for a 14-inch Lenov
 ### 🖼️ Explore the Complete Image Gallery
 
 <p align="center">
-  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/docs/Gallery/index.html">
-    <img src="https://img.shields.io/badge/🖼️_VIEW_ALL_IMAGES-Explore_Gallery-7C3AED?style=for-the-badge&logo=googlephotos&logoColor=white&labelColor=1F2937" alt="View All Images — Explore Gallery" height="65">
+  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/Gallery/index.html">
+    <img src="https://img.shields.io/badge/%F0%9F%96%BC-VIEW_ALL_IMAGES-7C3AED?style=for-the-badge&logoColor=white&labelColor=1F2937" alt="View All Images" height="65">
   </a>
 </p>
+
 
 
 ### CAD Design
@@ -69,9 +70,10 @@ A CAD project for a 3D-printable laptop cooling pad designed for a 14-inch Lenov
 ### 🖼️ Explore the Complete Image Gallery
 
 <p align="center">
-  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/docs/Gallery/index.html">
-    <img src="https://img.shields.io/badge/🖼️_VIEW_ALL_IMAGES-Explore_Gallery-7C3AED?style=for-the-badge&logo=googlephotos&logoColor=white&labelColor=1F2937" alt="View All Images — Explore Gallery" height="65">
+  <a href="https://alok9coder.github.io/Laptop_Cooling_Pad/Gallery/index.html">
+    <img src="https://img.shields.io/badge/%F0%9F%96%BC-VIEW_ALL_IMAGES-7C3AED?style=for-the-badge&logoColor=white&labelColor=1F2937" alt="View All Images" height="65">
   </a>
 </p>
+
 
 
