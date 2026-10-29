@@ -404,7 +404,7 @@
             wrapper.className = 'image-wrapper';
 
             const img = document.createElement('img');
-            img.src = `../Images/${filename}`;
+            img.src = `../../Images/${filename}`;
             img.alt = filename;
             img.loading = 'lazy';
             img.addEventListener('error', () => {
@@ -457,7 +457,7 @@
                 'slide-in-left',
                 'slide-in-right'
             );
-            lightboxImg.src = `../Images/${filename}`;
+            lightboxImg.src = `../../Images/${filename}`;
             lightboxImg.alt = filename;
             lightboxCounter.textContent = `${currentImageIndex + 1} / ${images.length}`;
         }
